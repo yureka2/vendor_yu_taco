@@ -699,6 +699,7 @@ PRODUCT_COPY_FILES += \
     vendor/cmdc/wt89536/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/cmdc/wt89536/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/cmdc/wt89536/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/cmdc/wt89536/proprietary/lib/libmmcamera_interface..so:system/lib/libmmcamera_interface.so \
     vendor/cmdc/wt89536/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/cmdc/wt89536/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/cmdc/wt89536/proprietary/lib/libvulkan.so:system/lib/libvulkan.so \
